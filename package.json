@@ -21,7 +21,7 @@
   "homepage": "https://github.com/demisto/content#readme",
   "dependencies": {
     "@mdx-js/mdx": "^2.1.0",
-    "commander": "^5.1.0",
+    "commander": "^9.1.0",
     "fs-extra": "^10.0.1",
     "jsdoc-to-markdown": "^5.0.3"
   }
